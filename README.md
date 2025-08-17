@@ -1,2 +1,1 @@
-Confusion Matrix template
-Profit curve template
+Confusion Matrix and Profit curve template
